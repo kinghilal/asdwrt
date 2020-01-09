@@ -4815,4 +4815,4 @@ client.on('message',  (message) => {
 
 
 
-client.login(process.env.6sZLNHkg7c0MnEf8Y--_zvV9UzXEeiOC);
+client.login("o0CVsRXNQ5pC3_EnaZ46Z34WPML2hq8n");
